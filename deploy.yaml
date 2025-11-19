@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: devops-app-c5
-        image: manjukolkar007/test-dev:latest
+        image: psanjayk04/test-dev-latest
         ports:
         - containerPort: 80
 --- 
